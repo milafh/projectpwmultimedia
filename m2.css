@@ -1,0 +1,85 @@
+* {
+    margin: 20px;
+    padding: 0;
+}
+
+.content {
+    display: flex;
+    gap: 100px;
+}
+#side1, main, #side2 {
+    height: 300px;
+}
+#side1 {
+    width: 25%; 
+    
+}
+
+main {
+    width: 50%;
+    
+}
+a {
+    text-align: right;
+}
+#side2 {
+    width: 25%;
+    text-align: right;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+#profil {
+    width: 400px;
+    height: 300px;
+}
+
+h1, h2 {
+    color: #B05B3B;
+}
+
+p {
+    font-size: 17px;
+}
+
+.media {
+    display: flex;
+    gap: 50px;
+    
+}
+
+video {
+    width: 350px;
+    height: 250px;
+}
+
+#gambar1,#gambar2,#gambar3,#gambar4 {
+    width: 100px;
+    height: 80px;  
+}
+
+picture {
+    border: 4px solid;
+}
+
+#golongan {
+    border: 4px solid; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
